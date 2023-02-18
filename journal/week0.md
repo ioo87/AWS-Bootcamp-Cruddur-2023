@@ -17,5 +17,6 @@ I logged in as an IAM user and created a My Zero Spend budget of $1.00. I also s
 # VPC diagram
 This is an VPC that is on napkin while the following diagram was drawn using drawn.io
 ! [VPC diagram](assest/Week%200_VPC%20Pic.jpg)
-! [VPC diagram](assest/assest/Week0_VPC.png)
+
+! [VPC diagram](assest/Week0_VPC.png)
 
